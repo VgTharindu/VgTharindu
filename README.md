@@ -8,25 +8,33 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **FLUTTER**
 
 - 🧑‍🎓 I’m an Undergraduate Student at **SLIATE**
+
+- 💻 Passionate about **Software Development**, **Web Apps**, and **Mobile Applications**
+
+- 🚀 Currently exploring **Flutter**, and **App Development**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **vgtharindu165@gmail.com**
   
-- ⚡ Fun fact **Call me as Vg**
 
 </td>
 <td width="50%" align="center">
-
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
   </td>
 </tr>
 </table>
+
+---
+
+### 🛠️ Tech Stack & Tools
+- 🌐 HTML | CSS | JavaScript | PHP  
+- ⚙️ C#.NET | Java | Python | MySQL  
+- 📱 **Dart | Flutter | Mobile App Development**  
+- 🎨 UI/UX with Figma / Canva  
+
 
 ---
 
@@ -78,6 +86,18 @@
 
 ---
 
+### 🌟 What I'm Up To
+- 📘 Building creative and practical software projects  
+- 🧠 Improving my coding & problem-solving skills  
+- 🧾 Working on university projects
 
+---
+### ⚡ Fun Fact  
+💡 *I love turning ideas into real projects and learning new tech every day!*
+
+---
+
+### 🎯 Personal Motto  
+> *"Code with purpose, build with passion."*
 
 
