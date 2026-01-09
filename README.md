@@ -38,23 +38,16 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
+<h2 align="center">GitHub Analytics</h2>
+
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
- ![Vgtharindu's github stats](https://github-readme-stats.vercel.app/api?username=vgtharindu&show_icons=true&theme=tokyonight)  
-
- 
-</td>
-<td width="50%" align="center">
-
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgtharindu&theme=tokyonight)
-  
-  </td>
-</tr>
-</table>
+  <a href="https://github.com/vgtharindu">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vgtharindu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Scopiarchy">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vgtharindu&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 ---
 
