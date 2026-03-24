@@ -51,7 +51,7 @@
     <td>
       <p align="center">
         <a href="https://github.com/vgtharindu">
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vgtharindu&layout=compact&langs_count=20&theme=algolia&size_weight=0.5&count_weight=0.5"/>
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vgtharindu&layout=compact&langs_count=20&theme=algolia&size_weight=0.5&count_weight=0.5&count_private=true"/>
         </a>
       </p>
     </td>
