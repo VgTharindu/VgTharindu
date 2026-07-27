@@ -11,11 +11,11 @@
 
 - 🧑‍🎓 I’m an Undergraduate Student at **SLIATE**
 
-- 💻 Passionate about **Software Development**, **Web Apps**, and **Mobile Applications**
+- 💻 Passionate about **Software Development**, **Web Apps**, and **Fullstack Development**
 
-- 🚀 Currently exploring **Flutter**, and **App Development**
+- 🚀 Currently exploring **React.js**, and **Web App Development**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** and **React**
 
 - 📫 How to reach me **vgtharindu165@gmail.com**
   
@@ -32,7 +32,7 @@
 ### 🛠️ Tech Stack & Tools
 - 🌐 HTML | CSS | JavaScript | PHP  
 - ⚙️ C#.NET | Java | Python | MySQL  
-- 📱 **Dart | Flutter | Mobile App Development**  
+- 📱 **React.js | Node.js | Web App Development**  
 - 🎨 UI/UX with Figma / Canva  
 
 
@@ -62,8 +62,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/tharindu-sampath-0b0158272" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Tharindu Sampath" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/vgtharindu/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Tharindu Sampath" height="50" width="50" /></a>
 <a href="https://www.facebook.com/share/1CXtXgNnYd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tharindu Sampath" height="50" width="50" /></a>
+<a href="https://www.instagram.com/vgthrindu?igsh=d2puZTRpOHJ1NTBu" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="Tharindu Sampath" height="50" width="50" /></a>
 
 
 ---
@@ -73,11 +74,11 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a>
   <a href="https://www.c#programming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="c#" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a>
-  <a href="https://dart.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Light.svg" alt="dart" width="50" height="50"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a>
-  <a href="https://www.flutter.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Flutter-Light.svg" alt="flutter" width="50" height="50"/> </a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="React.js" width="50" height="50"/> </a> 
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="50" height="50"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a>
   <a href="https://www.Firebase.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Firebase-Light.svg" alt="Firebase" width="50" height="50"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> 
